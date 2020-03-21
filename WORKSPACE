@@ -114,7 +114,7 @@ go_repository(
 
 go_repository(
     name = "com_github_prysmaticlabs_prysm",
-    commit = "5e939378d0c83c074bfed6ecaba5b505074a7a01",
+    commit = "4f8d9c59dda4ba9e4e007d24f9a4141a6b9c2073",  # v0.3.7
     importpath = "github.com/prysmaticlabs/prysm",
 )
 
